@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33e96049-f7fb-456f-a74e-812b1df62abf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IctBaden.Internet.Test/Calendar/CalendarTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IctBaden.Internet.Test/Calendar/IcsTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IctBaden.Internet.Test/Calendar/TimezoneTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IctBaden.Internet.Test/ICT-BADEN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IctBaden.Internet.Test/Mail/SMTP/MailBasicTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IctBaden.Internet.Test/Mail/SMTP/MailTests.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[TestMethod]</find>
+      <find>attach</find>
+      <find>attache</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>[Fact]</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/SMTP/QuotedPrintable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/SMTP/SmtpServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Util.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Pop3Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MIMEPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MessageInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MessageBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/FetchOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Exceptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentTransferEncoding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentDisposition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Bodypart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/AuthMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VTimezone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VCalendar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VAlarm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/1c/bd712047/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/CalendarFactory.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/AuthMethod.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Bodypart.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentDisposition.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentTransferEncoding.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentType.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Exceptions.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/FetchOptions.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MessageBuilder.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MessageInfo.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MIMEPart.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Pop3Client.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Util.cs" />
+        <option value="$PROJECT_DIR$/../IctBaden.Internet.Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/../IctBaden.Internet.Test/Calendar/TimezoneTests.cs" />
+        <option value="$PROJECT_DIR$/../IctBaden.Internet.Test/Calendar/IcsTests.cs" />
+        <option value="$PROJECT_DIR$/../IctBaden.Internet.Test/Calendar/CalendarTests.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Calendar/VTimezone.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/SMTP/SmtpServer.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet/Mail/SMTP/QuotedPrintable.cs" />
+        <option value="$PROJECT_DIR$/../IctBaden.Internet.Test/Mail/SMTP/MailBasicTests.cs" />
+        <option value="$PROJECT_DIR$/../IctBaden.Internet.Test/Mail/SMTP/MailTests.cs" />
+        <option value="$PROJECT_DIR$/IctBaden.Internet.Test/IctBaden.Internet.Test.csproj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="532" />
+    <option name="y" value="94" />
+    <option name="width" value="1963" />
+    <option name="height" value="1421" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="IctBaden.Internet" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IctBaden.Internet.Test/IctBaden.Internet.Test.csproj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33e96049-f7fb-456f-a74e-812b1df62abf" name="Default Changelist" comment="" />
+      <created>1561998587109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561998587109</updated>
+      <workItem from="1561998588425" duration="2773000" />
+      <workItem from="1562001454348" duration="121000" />
+      <workItem from="1562001596147" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2955000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="532" y="94" width="1963" height="1421" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25486076" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32977098" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32977098" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32977098" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/CalendarFactory.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VAlarm.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VCalendar.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/AuthMethod.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Bodypart.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentDisposition.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentTransferEncoding.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/ContentType.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Exceptions.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/FetchOptions.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MessageBuilder.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MessageInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/MIMEPart.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Pop3Client.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/POP3/Util.cs" />
+    <entry file="file://$PROJECT_DIR$/../IctBaden.Internet.Test/UnitTest1.cs" />
+    <entry file="file://$PROJECT_DIR$/../IctBaden.Internet.Test/Mail/SMTP/MailBasicTests.cs" />
+    <entry file="file://$PROJECT_DIR$/../IctBaden.Internet.Test/Calendar/TimezoneTests.cs" />
+    <entry file="file://$PROJECT_DIR$/../IctBaden.Internet.Test/Calendar/IcsTests.cs" />
+    <entry file="file://$PROJECT_DIR$/../IctBaden.Internet.Test/Calendar/CalendarTests.cs" />
+    <entry file="file://$PROJECT_DIR$/../IctBaden.Internet.Test/ICT-BADEN.png" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Calendar/VTimezone.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/SMTP/SmtpServer.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet/Mail/SMTP/QuotedPrintable.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/1c/bd712047/TestInvoker`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="282" column="14" selection-start-line="282" selection-start-column="14" selection-end-line="282" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IctBaden.Internet.Test/Mail/SMTP/MailTests.cs" />
+    <entry file="file://$PROJECT_DIR$/IctBaden.Internet.Test/IctBaden.Internet.Test.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

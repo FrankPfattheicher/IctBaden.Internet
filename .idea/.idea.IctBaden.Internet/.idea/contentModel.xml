@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\ICT Baden\IctBaden.Internet" t="IncludeFlat">
+      <e p="IctBaden.Internet" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar" t="Include">
+          <e p="CalendarFactory.cs" t="Include" />
+          <e p="RFC2445.txt" t="Include" />
+          <e p="VAlarm.cs" t="Include" />
+          <e p="VCalendar.cs" t="Include" />
+          <e p="VEvent.cs" t="Include" />
+          <e p="VTimezone.cs" t="Include" />
+        </e>
+        <e p="IctBaden.Internet.csproj" t="IncludeRecursive" />
+        <e p="Mail" t="Include">
+          <e p="POP3" t="Include">
+            <e p="AuthMethod.cs" t="Include" />
+            <e p="Bodypart.cs" t="Include" />
+            <e p="ContentDisposition.cs" t="Include" />
+            <e p="ContentTransferEncoding.cs" t="Include" />
+            <e p="ContentType.cs" t="Include" />
+            <e p="Exceptions.cs" t="Include" />
+            <e p="FetchOptions.cs" t="Include" />
+            <e p="MessageBuilder.cs" t="Include" />
+            <e p="MessageInfo.cs" t="Include" />
+            <e p="MIMEPart.cs" t="Include" />
+            <e p="Pop3Client.cs" t="Include" />
+            <e p="Util.cs" t="Include" />
+          </e>
+          <e p="SMTP" t="Include">
+            <e p="QuotedPrintable.cs" t="Include" />
+            <e p="SmtpServer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="IctBaden.Internet.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="IctBaden.Internet.sln" t="IncludeFlat" />
+      <e p="IctBaden.Internet.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar" t="Include">
+          <e p="CalendarTests.cs" t="Include" />
+          <e p="IcsTests.cs" t="Include" />
+          <e p="TimezoneTests.cs" t="Include" />
+        </e>
+        <e p="ICT-BADEN.png" t="Include" />
+        <e p="IctBaden.Internet.Test.csproj" t="IncludeRecursive" />
+        <e p="Mail" t="Include">
+          <e p="SMTP" t="Include">
+            <e p="MailBasicTests.cs" t="Include" />
+            <e p="MailTests.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="IctBaden.Internet.Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Frank\.nuget\packages\microsoft.net.test.sdk\16.0.1\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Frank\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Frank\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Frank\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\Frank\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Frank\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_IctBaden.Internet.1942447131.00" t="ExcludeRecursive" />
+  </component>
+</project>
